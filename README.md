@@ -29,3 +29,11 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## License
 
 Free and open source
+
+## Author
+
+Tanzeel Mirza
+
+Software Development Engineer-I, Philips Health Care
+
+Bangalore, India
