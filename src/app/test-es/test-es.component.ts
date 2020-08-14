@@ -17,7 +17,7 @@ export class TestEsComponent implements OnInit {
  
   ngOnInit() {
     this.es.isAvailable().then(() => {
-      this.status = 'OK';
+      this.status = 'Up & Running';
       this.isConnected = true;
     }, error => {
       this.status = 'ERROR';
